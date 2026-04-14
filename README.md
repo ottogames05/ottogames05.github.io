@@ -55,11 +55,11 @@
 
 ### ☕ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-🔹 Aplicación basada en Java  
-🔹 Posible uso de APIs REST  
+🔹 Aplicación basada en Python  
+🔹 Posible uso de APIs 
 
 ---
 
