@@ -110,6 +110,6 @@ Crear una plataforma donde:
 ---
 
 <p align="center">
-  🔥 Proyecto creado por Ángel Chicaiza 🔥  
+  🔥 Proyecto creado por Ángel Chicaiza y Eduard Chiriac 🔥  
   💙 Ahexa © 💙
 </p>
